@@ -1,0 +1,53 @@
+[
+    {
+      "oppositeLeg": 3,
+      "adjacentLeg": 4,
+      "hipotenuse": 5
+    },
+    {
+      "oppositeLeg": 5,
+      "adjacentLeg": 12,
+      "hipotenuse": 13
+    },
+    {
+      "oppositeLeg": 6,
+      "adjacentLeg": 8,
+      "hipotenuse": 10
+    },
+    {
+      "oppositeLeg": 7,
+      "adjacentLeg": 24,
+      "hipotenuse": 25
+    },
+    {
+      "oppositeLeg": 8,
+      "adjacentLeg": 15,
+      "hipotenuse": 17
+    },
+    {
+      "oppositeLeg": 9,
+      "adjacentLeg": 12,
+      "hipotenuse": 15
+    },
+    {
+      "oppositeLeg": 10,
+      "adjacentLeg": 24,
+      "hipotenuse": 26
+    },
+    {
+      "oppositeLeg": 11,
+      "adjacentLeg": 60,
+      "hipotenuse": 61
+    },
+    {
+      "oppositeLeg": 12,
+      "adjacentLeg": 16,
+      "hipotenuse": 20
+    },
+    {
+      "oppositeLeg": 20,
+      "adjacentLeg": 21,
+      "hipotenuse": 29
+    }
+  ]
+  
